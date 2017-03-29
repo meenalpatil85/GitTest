@@ -4,7 +4,7 @@ public class GitTest {
 	public static void main(String[] args) {	
 		
 		System.out.println("We are testing Git.");
-
+		System.out.println("Successfully Completed");
 	}
 
 }
